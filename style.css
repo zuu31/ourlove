@@ -5,7 +5,14 @@ h1{
     background-color: cadetblue;
     border: 4px solid rosybrown;
 }
-
+h2{
+ text-align: center;
+    font-size: medium;
+    color: burlywood;
+    background-color: cadetblue;
+    border: 4px solid rosybrown;
+    margin: 20px;
+}
 
 
 
